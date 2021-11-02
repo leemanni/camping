@@ -2,4 +2,11 @@
 프로그램명 : camping  
 DB 테이블명 : camping  
 패키지명 : com.project* ( 컨트롤러)  
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/abb32d04-28ab-4a99-bb0e-055c5cefa77c/Untitled.png)
+💥프로그램 명명법
+- '_'(단어와 단어 사이에 언더바로 연결)
+- 변수 및 페이지 명도 '_' 로 통일시킨다.
+
+💥역할분담
+조장 : 김재호
+프론트 : 김호연, 신영진, 전상욱
+백엔드 : 김재호, 이원희
